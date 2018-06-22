@@ -1,0 +1,68 @@
+admission_type_id,description,admission_type_id，描述
+1,Emergency,1，紧急
+2,Urgent,2，紧急
+3,Elective,3，选修
+4,Newborn,4，新生儿
+5,Not Available,5，不可用
+6,NULL,6，NULL
+7,Trauma Center,7，创伤中心
+8,Not Mapped,8，未映射
+,,
+discharge_disposition_id,description,discharge_disposition_id描述
+1,Discharged to home,1放电回家
+2,Discharged/transferred to another short term hospital,2出院/转移到另一家短期医院
+3,Discharged/transferred to SNF,3放电/转移到SNF
+4,Discharged/transferred to ICF,4出院/转入ICF
+5,Discharged/transferred to another type of inpatient care institution,5出院/转移到另一种类型的住院护理机构
+6,Discharged/transferred to home with home health service,6家庭保健服务解除/转移到家中
+7,Left AMA,7离开AMA
+8,Discharged/transferred to home under care of Home IV provider,8在家中IV提供者的护理下排出/转移到家中
+9,Admitted as an inpatient to this hospital,9作为住院医师入院
+10,Neonate discharged to another hospital for neonatal aftercare,10新生儿出院到另一家医院进行新生儿治疗
+11,Expired,11过期
+12,Still patient or expected to return for outpatient services,12仍然有耐心或有望返回门诊服务
+13,Hospice / home,13临终关怀/家庭
+14,Hospice / medical facility,14临终关怀/医疗机构
+15,Discharged/transferred within this institution to Medicare approved swing bed,15在该机构内出院/转移至Medicare批准的摇床
+16,Discharged/transferred/referred another institution for outpatient services,16出院/转诊/转介到另一个机构进行门诊服务
+17,Discharged/transferred/referred to this institution for outpatient services,17被解除/转移/转介给该机构的门诊服务
+18,NULL,18 NULL
+19,"Expired at home. Medicaid only, hospice.",19在家过期。只有医疗补助，临终关怀。
+20,"Expired in a medical facility. Medicaid only, hospice.",20医疗设施已过期。只有医疗补助，临终关怀。
+21,"Expired, place unknown. Medicaid only, hospice.",21过期，地点不详。只有医疗补助，临终关怀。
+22,Discharged/transferred to another rehab fac including rehab units of a hospital .,22出院/转移到另一家康复机构，包括医院的康复机构。
+23,Discharged/transferred to a long term care hospital.,23出院/转入长期护理医院。
+24,Discharged/transferred to a nursing facility certified under Medicaid but not certified under Medicare.,24出院/转入根据医疗补助认证但未通过医疗保险认证的护理机构。
+25,Not Mapped,25未映射
+26,Unknown/Invalid,26未知/无效
+30,Discharged/transferred to another Type of Health Care Institution not Defined Elsewhere,30出院/转移到其他类型的医疗机构没有定义其他地方
+27,Discharged/transferred to a federal health care facility.,27被解除/转移到联邦医疗保健机构。
+28,Discharged/transferred/referred to a psychiatric hospital of psychiatric distinct part unit of a hospital,28出院/转诊/转介到某医院精神科不同部门的精神病医院
+29,Discharged/transferred to a Critical Access Hospital (CAH).,29被解除/转移到一家重症医院（CAH）。
+,,
+admission_source_id,description,admission_source_id描述
+1, Physician Referral,1位医师转诊
+2,Clinic Referral,2诊所转诊
+3,HMO Referral,3 HMO推荐
+4,Transfer from a hospital,4从医院转移
+5, Transfer from a Skilled Nursing Facility (SNF),5从技术护理机构（SNF）
+6, Transfer from another health care facility,6从另一家医疗保健机构转移
+7, Emergency Room,7个急救室
+8, Court/Law Enforcement,8法院/执法部门
+9, Not Available,9不可用
+10, Transfer from critial access hospital,10从关键医院转诊
+11,Normal Delivery,11正常交货
+12, Premature Delivery,12早产
+13, Sick Baby,13生病宝贝
+14, Extramural Birth,14校外诞生
+15,Not Available,15不可用
+17,NULL,17 NULL
+18, Transfer From Another Home Health Agency,18从另一家庭健康机构转诊
+19,Readmission to Same Home Health Agency,19再次入住同一家庭健康机构
+20, Not Mapped,20未映射
+21,Unknown/Invalid,21未知/无效
+22, Transfer from hospital inpt/same fac reslt in a sep claim,22来自医院的转院/同一事务部门以sep索赔偿还
+23, Born inside this hospital,23出生在这家医院
+24, Born outside this hospital,24出生在这家医院外面
+25, Transfer from Ambulatory Surgery Center,25从门诊手术中心转移
+26,Transfer from Hospice,26从临终关怀转移
